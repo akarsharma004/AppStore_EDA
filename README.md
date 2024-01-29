@@ -1,7 +1,7 @@
 # Apple App Store Analysis
 
 ## Project overview:
-This data analysis project aims to equip the Apple App Store with insights needed to implement a new feature, the goal of which is to facilitate user decision-making by leveraging data on user engagement, reviews, and the factors influencing these metrics.
+This project aims to empower the Apple App Store with data-driven insights to enhance user decision-making. By analyzing user engagement, reviews, and the factors influencing these metrics, we can identify areas for improvement and implement new features that cater to user needs.
 
 ## Data Sources and Tool use:
 
